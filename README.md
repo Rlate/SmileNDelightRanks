@@ -13,7 +13,7 @@ If at anytime while using rbot, you need support with it, then feel free to join
 ### Other Information
 rbot requires Node 12. If you are using https://glitch.com to host your bot, your server will automatically be updated to Node 12 because of it being specified in the ackage.json file.
 
-License:
+License: https://github.com/Rlate/rbot/blob/master/LICENSE
 Acknowledgements:
 Contributors:
 
