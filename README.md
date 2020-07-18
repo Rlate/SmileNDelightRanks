@@ -1,3 +1,5 @@
+[![Services Health](https://njsc458wtkt.montastic.io/badge)](https://njsc458wtkt.montastic.io)
+
 ![Rlate's Ranking Bot](https://cdn.glitch.com/40380bdd-d7db-4c73-98f8-a996b1271403%2FRlate's%20Ranking%20Bots.PNG?v=1591143735310)
 
 ![Information](https://cdn.glitch.com/40380bdd-d7db-4c73-98f8-a996b1271403%2FInfo.PNG?v=1591144083856)
